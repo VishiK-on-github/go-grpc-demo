@@ -1,5 +1,5 @@
 syntax = "proto3";
-option go_package = "github.com/VishiK-on-github/go-grpc-demo/invoicer"
+option go_package = "github.com/VishiK-on-github/go-grpc-demo/invoicer";
 
 message Amount {
     int64 amount = 1;
