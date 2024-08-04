@@ -1,0 +1,1 @@
+This repo contains code for a small demo on grpc using go as the backend
